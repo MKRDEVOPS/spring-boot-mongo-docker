@@ -3,7 +3,7 @@ apiVersion: v1
 metadata:
   name: springappconfigmap
 data:
-  username: springapp
+  username: devdb
   password: mongodb@123
 
 ---
